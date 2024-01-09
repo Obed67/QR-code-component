@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Code](https://github.com/Obed67/QR-code-component/tree/main?tab=readme-ov-file#links)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [component-qr-code](https://composant-qr-code.netlify.app/)
 
 ## My process
 
