@@ -37,11 +37,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Obed AGBOHOUN](https://www.your-site.com)
-- Linkdin - (https://www.linkedin.com/in/sonagnon-obed-agbohoun-a1b500262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcNpVddBcQ8iarGQE7ez0Og%3D%3D)
+- Linkdin - [Obed AGBOHOUN](https://www.linkedin.com/in/sonagnon-obed-agbohoun-a1b500262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcNpVddBcQ8iarGQE7ez0Og%3D%3D)
 - Twitter - [@s_sonagnon](https://www.twitter.com/s_sonagnon)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+It's always good to practice day by day.
 
